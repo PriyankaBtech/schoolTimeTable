@@ -1,3 +1,3 @@
-# TimeTableProject
+# schoolTimeTable
 
-learning github
+school Time-Table made in HTML5
